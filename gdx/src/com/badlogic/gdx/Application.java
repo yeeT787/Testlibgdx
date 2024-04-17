@@ -95,7 +95,7 @@ import com.badlogic.gdx.utils.Clipboard;
  * </p>
  * 
  * @author mzechner */
-public interface Application {
+public interface Application { //hello
 	/** Enumeration of possible {@link Application} types
 	 * 
 	 * @author mzechner */
